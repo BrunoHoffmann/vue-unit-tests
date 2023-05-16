@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import SearchInput from './components/SearchInput.vue';
+import SearchInput from './components/search-input/index.vue';
 
 export default {
   name: 'App',

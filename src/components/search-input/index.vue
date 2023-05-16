@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <template>
   <div class="input">
     <input type="text" placeholder="Pesquisar..." v-model="searchQuery" />
